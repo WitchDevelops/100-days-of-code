@@ -17,7 +17,6 @@ Sending a webform is impossible with HTML. All it can do is open the mailing sof
 **Link to work:** 
 - [hotfix-form branch](https://github.com/WitchDevelops/Artgallery-Sofiadali/tree/hotfix-form)
 - [live website](https://sofiabanchenko.com)
-__________
 
 ## Day 2: 2023-03-05
 
@@ -38,3 +37,18 @@ ugh
 **Link to work:**
 
 [Learn PHP: Introduction](https://www.codecademy.com/profiles/the_witch)
+
+## Day 3: 2023-03-06
+
+**Today's Progress**:
+
+* continued learning PHP
+
+**Thoughts:**
+
+PHP is easy. I need some mental adjusting, because whenever I need to declara a variable my instict tells me: use ```let```.
+
+**Link to work:**
+
+[Learn PHP: Introduction](https://www.codecademy.com/profiles/the_witch)
+[Certificate](https://www.codecademy.com/profiles/the_witch/certificates/167925f179f648e8abbaedbdf5b43091)
