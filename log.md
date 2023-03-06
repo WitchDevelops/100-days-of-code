@@ -50,5 +50,5 @@ PHP is easy. I need some mental adjusting, because whenever I need to declara a 
 
 **Link to work:**
 
-[Learn PHP: Introduction](https://www.codecademy.com/profiles/the_witch)
-[Certificate](https://www.codecademy.com/profiles/the_witch/certificates/167925f179f648e8abbaedbdf5b43091)
+* [Learn PHP: Introduction](https://www.codecademy.com/profiles/the_witch)
+* [Certificate](https://www.codecademy.com/profiles/the_witch/certificates/167925f179f648e8abbaedbdf5b43091)
