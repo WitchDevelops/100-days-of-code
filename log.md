@@ -52,3 +52,19 @@ PHP is easy. I need some mental adjusting, because whenever I need to declara a 
 
 * [Learn PHP: Introduction](https://www.codecademy.com/profiles/the_witch)
 * [Certificate](https://www.codecademy.com/profiles/the_witch/certificates/167925f179f648e8abbaedbdf5b43091)
+
+## Day 4: 2023-03-07
+
+**Today's Progress**:
+
+* learned about destructuring syntax in ES6
+
+**Thoughts:**
+
+Destructuring syntax is ok. Destruturing nested objects and renaming the variables is unintuitive. Take this code snippet for example:
+```const {today: {low: lowToday, high: highToday}} = LOCAL_FORECAST; ```
+```LOCAL_FORECAST``` is a parent object, ```today``` is a nested object that contains ```low``` and ```high``` keys for its properties. That colon to rename them is confusing.
+
+**Link to work:**
+
+* [FreeCodeCamp ES6](https://github.com/WitchDevelops/JavaScript-Algorithms-and-Data-Structures-FCC)
