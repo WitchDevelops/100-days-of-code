@@ -68,3 +68,20 @@ Destructuring syntax is ok. Destruturing nested objects and renaming the variabl
 **Link to work:**
 
 * [FreeCodeCamp ES6](https://github.com/WitchDevelops/JavaScript-Algorithms-and-Data-Structures-FCC)
+
+
+## Day 5: 2023-03-08
+
+**Today's Progress**:
+
+* revised template literals, classes and constructor method in ES6
+* did a bunch of challenges from FreeCodeCamp JS certification
+
+**Thoughts:**
+
+Repetition is the mother of learning.
+
+**Link to work:**
+
+* [FreeCodeCamp ES6](https://github.com/WitchDevelops/JavaScript-Algorithms-and-Data-Structures-FCC)
+* [Code](https://github.com/WitchDevelops/JavaScript-Algorithms-and-Data-Structures-FCC/commit/a45b082959a417e7972151ed1870c24d920c0ef6)
