@@ -85,3 +85,19 @@ Repetition is the mother of learning.
 
 * [FreeCodeCamp ES6](https://github.com/WitchDevelops/JavaScript-Algorithms-and-Data-Structures-FCC)
 * [Code](https://github.com/WitchDevelops/JavaScript-Algorithms-and-Data-Structures-FCC/commit/a45b082959a417e7972151ed1870c24d920c0ef6)
+
+## Day 6: 2023-03-10 (I skipped yesterday)
+
+**Today's Progress**:
+
+* revised getters, setters and promises in ES6
+* finished ES6 module in the FCC JS certificaiton
+
+**Thoughts:**
+
+The excercise on getters and setters was confusing. Promises seem easy, I've even used them once. Web Dev Simplified explains them pretty well!
+
+**Link to work:**
+
+* [FreeCodeCamp ES6](https://github.com/WitchDevelops/JavaScript-Algorithms-and-Data-Structures-FCC)
+* [Code: promise](https://github.com/WitchDevelops/JavaScript-Algorithms-and-Data-Structures-FCC/blob/main/handle-a-rejected-promise-with-catch.js)
