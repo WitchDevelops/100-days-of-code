@@ -101,3 +101,18 @@ The excercise on getters and setters was confusing. Promises seem easy, I've eve
 
 * [FreeCodeCamp ES6](https://github.com/WitchDevelops/JavaScript-Algorithms-and-Data-Structures-FCC)
 * [Code: promise](https://github.com/WitchDevelops/JavaScript-Algorithms-and-Data-Structures-FCC/blob/main/handle-a-rejected-promise-with-catch.js)
+
+## Day 7: 2023-03-11
+
+**Today's Progress**:
+
+* worked on PHP form
+
+**Thoughts:**
+
+Sending data submitted to a web form is not an easy task. Form data is first send to a server, then to an email address. This can be done with PHP using PHP mailer library.
+Setting up PHP and said library, as well as Apache server on a local machine is a pain when compared to coding in JavaScript, but can be done. I managed to see PHP page run on a localhost. My main, unresolved, issue is with correct settings of an SMTP server. Can't figure it out for the life of me, I keep getting "405 access denied" error. It is exactly the same when I tried coding the backend logic with JavaScript, so I'm sure it's not code-related, but SMTP-related. Blocked gateway, firewall, whatever. Something doesn't work.
+
+**Link to work:**
+
+* [code: PHP form](https://github.com/WitchDevelops/PHP-form-test/tree/JS-sending) (note: branch name is incorrect, but the code is)
