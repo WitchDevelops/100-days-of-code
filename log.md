@@ -116,3 +116,19 @@ Setting up PHP and said library, as well as Apache server on a local machine is 
 **Link to work:**
 
 * [code: PHP form](https://github.com/WitchDevelops/PHP-form-test/tree/JS-sending) (note: branch name is incorrect, but the code is)
+
+## Day 8: 2023-03-12
+
+**Today's Progress**:
+
+* worked on PHP form and gave up, used endpoint service instead
+* learned some regex!
+
+**Thoughts:**
+
+I tried again but gave up, it's too much of a hassle and can be done easily. Using PHP mailer library is a lot of code and dependencies, while using a free endpoint serive like [Form submit](https://formsubmit.co/documentation) is a single line of code (even less, you only specify the `action="..."` attribute.
+Regex is... mysterioous but powerful. It's good to understand it well, its syntax and capabilities.
+
+**Link to work:**
+
+* [FreeCodeCamp Regular expressions](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#es6)
