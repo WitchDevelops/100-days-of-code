@@ -132,3 +132,17 @@ Regex is... mysterioous but powerful. It's good to understand it well, its synta
 **Link to work:**
 
 * [FreeCodeCamp Regular expressions](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#es6)
+
+## Day 9: 2023-03-13
+
+**Today's Progress**:
+
+* continued working on regex - up to excercise 28/33 on FCC JS certification
+
+**Thoughts:**
+
+nada
+
+**Link to work:**
+
+* [FreeCodeCamp Regular expressions](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#es6)
