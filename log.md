@@ -146,3 +146,17 @@ nada
 **Link to work:**
 
 * [FreeCodeCamp Regular expressions](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#es6)
+
+## Day 10: 2023-03-14
+
+**Today's Progress**:
+
+* finished the regex section in FCC JS curriculum
+
+**Thoughts:**
+
+Regex ain't so bad, once you get, you get it. There is a method to this maddness ;)
+
+**Link to work:**
+
+* [FreeCodeCamp Regular expressions](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#es6)
