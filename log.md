@@ -160,3 +160,31 @@ Regex ain't so bad, once you get, you get it. There is a method to this maddness
 **Link to work:**
 
 * [FreeCodeCamp Regular expressions](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#es6)
+
+## Day 11: 2023-03-15
+
+**Today's Progress**:
+
+* played around with Bootstrap
+
+**Thoughts:**
+
+I do not like it. I see how it can be useful and speed up development, but it's just... not pretty? Especially the main navigation, I really don't like it how it slides from the top. Is there a way to easily override it?
+
+**Link to work:**
+
+* no link
+
+## Day 12: 2023-03-16
+
+**Today's Progress**:
+
+* fix some minor issues on Sofia's website
+
+**Thoughts:**
+
+I am fairly satisfied with how this page looks, but I need some inspiration for how to make it look better. I tried adding animated border to buttons, but that's not it. Maybe reveal on scroll will do it?
+
+**Link to work:**
+
+* [repository](https://github.com/WitchDevelops/Artgallery-Sofia-Banchenko)
