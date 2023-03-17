@@ -188,3 +188,17 @@ I am fairly satisfied with how this page looks, but I need some inspiration for 
 **Link to work:**
 
 * [repository](https://github.com/WitchDevelops/Artgallery-Sofia-Banchenko)
+
+## Day 13: 2023-03-17
+
+**Today's Progress**:
+
+* solved FCC project: palindrome checker
+
+**Thoughts:**
+
+That was fun! Now I want to hook it up to a webpage to give it some GUI :)
+
+**Link to work:**
+
+* [code](https://github.com/WitchDevelops/JavaScript-Algorithms-and-Data-Structures-FCC/blob/0f16edc11a2b986ed2526a34641ceda544fb4127/palindrome-checker.js)
