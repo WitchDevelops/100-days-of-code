@@ -216,3 +216,19 @@ I tried to grab user input from a form field and display the result on the scree
 **Link to work:**
 
 * no link today
+
+## Day 15: 2023-03-20 (took the weekend off)
+
+**Today's Progress**:
+
+* added DOM manipulatio to the JS palindrome checker project
+
+**Thoughts:**
+
+Somethings the easiest things are so easily forgotten... I had to look up my older project (the only one in which I did DOM manipulation before) to check in the code how did I do it back then.
+I've added some Bootstrap to it, just for practice.
+
+**Link to work:**
+
+* [code](https://github.com/WitchDevelops/Palindrome-checker)
+* [live page](https://witchdevelops.github.io/Palindrome-checker/)
