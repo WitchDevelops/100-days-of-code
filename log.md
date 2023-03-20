@@ -202,3 +202,17 @@ That was fun! Now I want to hook it up to a webpage to give it some GUI :)
 **Link to work:**
 
 * [code](https://github.com/WitchDevelops/JavaScript-Algorithms-and-Data-Structures-FCC/blob/0f16edc11a2b986ed2526a34641ceda544fb4127/palindrome-checker.js)
+
+## Day 14: 2023-03-18
+
+**Today's Progress**:
+
+* worked on JS DOM manipulation
+
+**Thoughts:**
+
+I tried to grab user input from a form field and display the result on the screen, but this didn't work. Need to check what am I doing wrong here.
+
+**Link to work:**
+
+* no link today
