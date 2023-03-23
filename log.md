@@ -232,3 +232,17 @@ I've added some Bootstrap to it, just for practice.
 
 * [code](https://github.com/WitchDevelops/Palindrome-checker)
 * [live page](https://witchdevelops.github.io/Palindrome-checker/)
+
+## Day 16: 2023-03-21
+
+**Today's Progress**:
+
+* continued with FCC JS certification
+
+**Thoughts:**
+
+no thoughst :P
+
+**Link to work:**
+
+* [FCC JS](https://www.freecodecamp.org/Domi_)
