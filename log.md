@@ -246,3 +246,17 @@ no thoughst :P
 **Link to work:**
 
 * [FCC JS](https://www.freecodecamp.org/Domi_)
+
+## Day 17: 2023-03-22
+
+**Today's Progress**:
+
+* worked on roman numeral converter project
+
+**Thoughts:**
+
+If not for Ramon, I wouldn't know how to solve it...
+
+**Link to work:**
+
+* [FCC JS](https://www.freecodecamp.org/Domi_)
