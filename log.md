@@ -266,11 +266,13 @@ If not for Ramon, I wouldn't know how to solve it...
 **Today's Progress**:
 
 * worked on roman numeral converter project
+* fisnished basic data structures part of FCC JS curriculum
 
 **Thoughts:**
 
-I tried to understand the code for this project that uses a class. It mkaes the code less understandable (for me), but shorter and cleaner.
+I tried to understand the code for this project that uses a class. It makes the code less understandable (for me), but shorter and cleaner.
 
 **Link to work:**
 
-* [code](https://github.com/WitchDevelops/JavaScript-Algorithms-and-Data-Structures-FCC/blob/aec909e3fa73b65af72ed9681da2e13fcec931f4/roman-numeral-converter)
+* [roman numeral converter JS code](https://github.com/WitchDevelops/JavaScript-Algorithms-and-Data-Structures-FCC/blob/aec909e3fa73b65af72ed9681da2e13fcec931f4/roman-numeral-converter)
+* [basic data structures JS](https://github.com/WitchDevelops/JavaScript-Algorithms-and-Data-Structures-FCC/commit/6f93af93207e74d250163ae8599f7a6e1cc017e3)
