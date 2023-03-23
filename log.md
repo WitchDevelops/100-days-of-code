@@ -260,3 +260,17 @@ If not for Ramon, I wouldn't know how to solve it...
 **Link to work:**
 
 * [FCC JS](https://www.freecodecamp.org/Domi_)
+
+## Day 18: 2023-03-23
+
+**Today's Progress**:
+
+* worked on roman numeral converter project
+
+**Thoughts:**
+
+I tried to understand the code for this project that uses a class. It mkaes the code less understandable (for me), but shorter and cleaner.
+
+**Link to work:**
+
+* [code](https://github.com/WitchDevelops/JavaScript-Algorithms-and-Data-Structures-FCC/blob/aec909e3fa73b65af72ed9681da2e13fcec931f4/roman-numeral-converter)
