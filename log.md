@@ -282,11 +282,14 @@ I tried to understand the code for this project that uses a class. It makes the 
 **Today's Progress**:
 
 * added GUI to roman numeral converter project
+* messed about with group project
 
 **Thoughts:**
 
-Practicing DOM manipulation (sometimes I still don't really know what's going on)
+Practicing DOM manipulation (sometimes I still don't really know what's going on).
+Collaboration on a small codebase with a large dev group is a challenge.
 
 **Link to work:**
 
-* [live page](https://witchdevelops.github.io/Numeral-converter/)
+* [converter](https://witchdevelops.github.io/Numeral-converter/)
+* [group project](https://commit-group.github.io/Advice-generator-app/)
