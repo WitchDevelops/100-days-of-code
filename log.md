@@ -276,3 +276,17 @@ I tried to understand the code for this project that uses a class. It makes the 
 
 * [roman numeral converter JS code](https://github.com/WitchDevelops/JavaScript-Algorithms-and-Data-Structures-FCC/blob/aec909e3fa73b65af72ed9681da2e13fcec931f4/roman-numeral-converter)
 * [basic data structures JS](https://github.com/WitchDevelops/JavaScript-Algorithms-and-Data-Structures-FCC/commit/6f93af93207e74d250163ae8599f7a6e1cc017e3)
+
+## Day 19: 2023-03-24
+
+**Today's Progress**:
+
+* added GUI to roman numeral converter project
+
+**Thoughts:**
+
+Practicing DOM manipulation (sometimes I still don't really know what's going on)
+
+**Link to work:**
+
+* [live page](https://witchdevelops.github.io/Numeral-converter/)
