@@ -293,3 +293,18 @@ Collaboration on a small codebase with a large dev group is a challenge.
 
 * [converter](https://witchdevelops.github.io/Numeral-converter/)
 * [group project](https://commit-group.github.io/Advice-generator-app/)
+
+## Day 20: 2023-03-25
+
+**Today's Progress**:
+
+* finished the git and github course on CodeCademy
+
+**Thoughts:**
+
+That was a very helpful course, now I need to practice what I learned.
+
+**Link to work:**
+
+* [certificate](https://www.codecademy.com/profiles/the_witch/certificates/a8ab218d5950c29861635cc0bf12fd13)
+* [syllabus](https://www.codecademy.com/learn/learn-git)
