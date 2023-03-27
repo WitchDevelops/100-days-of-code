@@ -308,3 +308,20 @@ That was a very helpful course, now I need to practice what I learned.
 
 * [certificate](https://www.codecademy.com/profiles/the_witch/certificates/a8ab218d5950c29861635cc0bf12fd13)
 * [syllabus](https://www.codecademy.com/learn/learn-git)
+
+## Day 21: 2023-03-27 (Sunday was a rest day)
+
+**Today's Progress**:
+
+* started CS50
+* continued with FCC JS curriculum
+* watched Python for everybody (or was it yesterday?)
+
+**Thoughts:**
+
+Using indentation as a semantic part of the code (as in Python) is evil. Indentation is important for legibility and easthetic reasons, but giving meaning to spaces is devil's work.
+I like the way CS50 is taught, yet I wonder if I can still catch on with the current cohort (deadline for lecture 0 was 4 months ago...)
+
+**Link to work:**
+
+no work, no links. Only watch.
