@@ -325,3 +325,18 @@ I like the way CS50 is taught, yet I wonder if I can still catch on with the cur
 **Link to work:**
 
 no work, no links. Only watch.
+
+## Day 22: 2023-03-28
+
+**Today's Progress**:
+
+* worked on FCC JS project: cesar cipher
+
+**Thoughts:**
+
+For now I can mostly follow Ramon's explanations (it looks so easy when he's doing it), but I can't see any alternative solutions. I suppose I don't have enough knowledge to see what's possible.
+Anyway, here's my solution.
+I plan to add GUI to it, as I did with other projects.
+
+**Link to work:**
+* [solution to the cipher project](https://github.com/WitchDevelops/JavaScript-Algorithms-and-Data-Structures-FCC/blob/main/caesars-cipher.js)
