@@ -340,3 +340,17 @@ I plan to add GUI to it, as I did with other projects.
 
 **Link to work:**
 * [solution to the cipher project](https://github.com/WitchDevelops/JavaScript-Algorithms-and-Data-Structures-FCC/blob/main/caesars-cipher.js)
+
+## Day 23: 2023-03-29
+
+**Today's Progress**:
+
+* continued with CS50, lecture 1
+
+**Thoughts:**
+
+C looks evil xD
+But I really like how DAvid explains things. It's gonna be a good course.
+
+**Link to work:**
+* [evil C lives here](https://github.com/WitchDevelops/CS50x)
