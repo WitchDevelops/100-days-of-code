@@ -354,3 +354,17 @@ But I really like how DAvid explains things. It's gonna be a good course.
 
 **Link to work:**
 * [evil C lives here](https://github.com/WitchDevelops/CS50x)
+
+
+## Day 24: 2023-04-03 (was ill for a couple of days)
+
+**Today's Progress**:
+
+* started working on a test task for estore labs
+
+**Thoughts:**
+
+...it's a job to code those HTML ads, isn't it...
+
+**Link to work:**
+* wait for it
