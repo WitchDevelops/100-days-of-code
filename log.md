@@ -355,7 +355,6 @@ But I really like how DAvid explains things. It's gonna be a good course.
 **Link to work:**
 * [evil C lives here](https://github.com/WitchDevelops/CS50x)
 
-
 ## Day 24: 2023-04-03 (was ill for a couple of days)
 
 **Today's Progress**:
@@ -368,3 +367,17 @@ But I really like how DAvid explains things. It's gonna be a good course.
 
 **Link to work:**
 * wait for it
+* 
+## Day 25: 2023-04-04
+
+**Today's Progress**:
+
+* finished coding the test task for estore labs
+
+**Thoughts:**
+
+yup, it seems it's an add. Eh.
+
+**Link to work:**
+* [live](https://witchdevelops.github.io/estorelabs/custom/0000001/index.html)
+* [code](https://github.com/WitchDevelops/estorelabs)
